@@ -1,0 +1,1 @@
+- Configurar envio de e-mail genérico
